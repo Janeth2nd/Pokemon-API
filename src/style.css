@@ -1,0 +1,11 @@
+.card-title {
+    transition: 1.5s ease;
+    -webkit-transition: 1.5s ease;
+
+}
+
+.card-title:hover {
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+
+}
